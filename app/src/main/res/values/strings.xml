@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="movie_small_poster">Movie poster</string>
+    <string name="popularity">Most popular</string>
+    <string name="top_rating">Most rated</string>
+    <string name="add_to_favourite">Added to favorites</string>
+    <string name="delete_from_favourite">Removed from favorites</string>
+    <string name="item_main">Home</string>
+    <string name="item_favourite">Favorites</string>
+    <string name="play_trailer">Launch trailer</string>
+    <string name="label_title">Title:</string>
+    <string name="label_original_title">Original title:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="release_date">Release date:</string>
+    <string name="label_description">Movie description:</string>
+    <string name="percents_0.5">"0.5"</string>
+    <string name="percents_1.0">"1.0"</string>
+    <string name="poster_movie">Poster movie</string>
+    <string name="favourite_image">Image of add to favorites tag</string>
+    <string name="reviews_label">Reviews:</string>
+    <string name="trailers_label">Trailers:</string>
+</resources>
